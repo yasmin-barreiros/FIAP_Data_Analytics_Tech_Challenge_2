@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Classification — POSTECH DTAT Fase 2
+# 🍷 Wine Quality Classification — POSTECH Fase 2
 
 Classificação da qualidade de vinhos com Machine Learning usando o [Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset).
 
